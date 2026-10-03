@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "method": "Conservative local approximation using installed Meiryo UI, measured wrapped text, and workbook dimensions",
+  "native_excel_rendering": false,
+  "populated_cells_checked": 2779,
+  "height_adjustments": [
+    {
+      "sheet": "06_認証の行き帰り",
+      "row": 10,
+      "old_points": 63.5,
+      "new_points": 70
+    },
+    {
+      "sheet": "11_VPCLinkV2詳細",
+      "row": 11,
+      "old_points": 50.0,
+      "new_points": 55
+    },
+    {
+      "sheet": "26_HTTP例と設定対応",
+      "row": 9,
+      "old_points": 80.0,
+      "new_points": 85
+    }
+  ],
+  "overflow": [],
+  "previews": [
+    "preview_contents.png",
+    "preview_architecture.png",
+    "preview_routes.png",
+    "preview_tls.png",
+    "preview_http.png"
+  ]
+}

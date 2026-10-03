@@ -1,0 +1,9 @@
+{
+  "status": "NOT_AVAILABLE",
+  "native_open_save": false,
+  "autofit": "Not run: Excel COM application activation failed before opening the workbook",
+  "observed_error": "pywintypes.com_error -2146959355: server execution failed",
+  "powershell_attempt": "PS1 launch was denied by execution policy; the policy was not changed",
+  "fallback": "Local font and cell geometry review; see layout_validation.json",
+  "live_aws_tests": "Not run"
+}
